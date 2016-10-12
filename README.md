@@ -8,6 +8,11 @@
 Even though there are very few Bangladeshi public api's and datasets to begin with, knowing that they exist and finding them is even more tougher. These websites are not search engine optimized, are very obscure, sometimes in Bangla so they don't show up in English keyword searches,etc 
 So this repository is an attempt to create a platform to gather these scattered pieces of knowledge in one place!
 
+----------
+
+General:
+ - [Bangladesh Yellow Pages](http://www.bangladeshyellowpages.com/)
+
 
 ----------
 
